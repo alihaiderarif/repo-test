@@ -56,7 +56,7 @@
               "name": "avrdude"
             }
           ],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -99,7 +99,7 @@
           ],
           "size": "5109",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -145,7 +145,7 @@
           ],
           "size": "5995",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -191,7 +191,7 @@
           ],
           "size": "88230",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -237,7 +237,7 @@
           ],
           "size": "83617",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -283,7 +283,7 @@
           ],
           "size": "86696",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -306,7 +306,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -332,7 +332,7 @@
           ],
           "size": "90327",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -355,7 +355,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -381,7 +381,7 @@
           ],
           "size": "91879",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -404,7 +404,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -430,7 +430,7 @@
           ],
           "size": "86210",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -453,7 +453,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -479,7 +479,7 @@
           ],
           "size": "86378",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -502,7 +502,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -528,7 +528,7 @@
           ],
           "size": "100273",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -551,7 +551,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -577,7 +577,7 @@
           ],
           "size": "100292",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -600,7 +600,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -626,7 +626,7 @@
           ],
           "size": "103939",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -649,7 +649,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -675,7 +675,7 @@
           ],
           "size": "106237",
           "toolsDependencies": [],
-          "name": "Surilli AVR Boards"
+          "name": "Adafruit AVR Boards"
         },
         {
           "category": "Adafruit",
@@ -903,7 +903,7 @@
           },
           "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-avr-1.4.7.tar.bz2",
           "checksum": "SHA-256:53a1fbd497b71842d6e2336938b1ea7a95da1f25ad31cfa87f0f4bb681ffea4b",
-          "name": "Surilli AVR Boards",
+          "name": "Adafruit AVR Boards",
           "version": "1.4.7",
           "architecture": "avr",
           "archiveFileName": "adafruit-avr-1.4.7.tar.bz2",
@@ -920,7 +920,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -1072,7 +1072,7 @@
           },
           "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-avr-1.4.8.tar.bz2",
           "checksum": "SHA-256:447a72a86ce24664bd5912f407b2e5457a8274c29d2fbf34c830f3517609a811",
-          "name": "Surilli AVR Boards",
+          "name": "Adafruit AVR Boards",
           "version": "1.4.8",
           "architecture": "avr",
           "archiveFileName": "adafruit-avr-1.4.8.tar.bz2",
@@ -1089,7 +1089,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
@@ -1161,7 +1161,7 @@
           },
           "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-avr-1.4.9.tar.bz2",
           "checksum": "SHA-256:2fbc90df3cc0b95816ac39da262ddb6eac5c46e47374768bd7de7c99fac1f3dd",
-          "name": "Surilli AVR Boards",
+          "name": "Adafruit AVR Boards",
           "version": "1.4.9",
           "architecture": "avr",
           "archiveFileName": "adafruit-avr-1.4.9.tar.bz2",
@@ -1178,7 +1178,7 @@
               "name": "Adafruit Bluefruit Micro"
             },
             {
-              "name": "Adafruit Surilli 32u4"
+              "name": "Adafruit Feather 32u4"
             },
             {
               "name": "Adafruit Metro"
